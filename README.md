@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Bryan Austin, a Computer Science student at Hochschule Darmstadt currently in my 4th semester.
+I love learning new things in computer science, from web development to graphics programming and mobile app development.
+
+🌱 Always exploring new technologies
+💡 Passionate about problem-solving and coding
+🚀 Building projects to apply what I learn
+Feel free to connect! 😊
+
 <!--
 **BryanAustinS/BryanAustinS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
